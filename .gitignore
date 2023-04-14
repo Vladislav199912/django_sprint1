@@ -154,4 +154,4 @@ yap_testing
 html/img/img/
 
 #static
-*.min.css
+static_dev/css/*.css
